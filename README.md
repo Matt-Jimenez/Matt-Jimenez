@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SOC Lab<br>👯 I’m looking to collaborate on CTF projects<br>🤝 I’m looking for help with properly setting up a homelab firewall<br>🌱 I’m currently learning Linux<br>💬 Ask me about - my cooking<br>⚡ Fun fact - IT wasn't my first career choice.
+🔭 I’m currently working on a SOC Lab<br>👯 I’m looking to collaborate on CTF projects<br>🤝 I’m looking for help with properly setting up a homelab firewall<br>🌱 I’m currently learning Linux<br>💬 Ask me about - my cooking<br>⚡ Fun fact - IT wasn't my first career choice.
 
 
 ## 🌐 Socials:
